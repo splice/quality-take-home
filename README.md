@@ -14,4 +14,4 @@ We are grading the exercise based on a number of factors, which include the robu
 
 
 Best,
-Brenna, Mike, and Kath.
+Brenna, Mike, Kath, Carol, and Rolando
