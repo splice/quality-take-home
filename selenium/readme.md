@@ -8,6 +8,14 @@ Before you begin, please reach out to us confirming that you have a full local d
 
 The language to use for the exercise is completely up to you! 
 
+As for the type of automated suite, please keep in mind that the suite can be testing any of the following things:
+
+- web / frontend
+- load/performance 
+- api
+- database
+- desktop application
+
 At the time of this writing, the team currently uses Javascript for our automated tests.
 
 
