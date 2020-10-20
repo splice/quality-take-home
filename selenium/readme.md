@@ -8,13 +8,14 @@ Before you begin, please reach out to us confirming that you have a full local d
 
 The language to use for the exercise is completely up to you! 
 
-As for the type of automated suite, please keep in mind that the suite can be testing any of the following things:
+Outcomes we will be evaluating:
 
-- web / frontend
-- load/performance 
-- api
-- database
-- desktop application
+- We are able to set up, build, and run the solution
+- We are able to receive "pass" / "fail" feedback within a CLI or similar
+- How much of the code is re-usable or extensible?
+- Code complexity 
+- Uses common design patterns
+- Code readability (naming, commenting code, etc.)
 
 At the time of this writing, the team currently uses Javascript for our automated tests.
 
@@ -28,6 +29,6 @@ In this exercise, we ask that you create:
 - **Minimum 2 (two) created test cases** for the suite;
 - (If any) Bug reports for each of the defects found with the created test suite.
 
-Feel free to create the test suite battery against any web site of your choosing. Remember, this test suite will showcase your understanding of various difficult aspects of web-based automated tests - show us all the interesting techniques you use to solve potentially gnarly problems with creating this type of automation.
+Feel free to create the test suite battery against any web site of your choosing. Remember, this test suite will showcase your understanding of various difficult aspects of automated tests - show us all the interesting techniques you use to solve potentially gnarly problems with creating automation.
 
 Have fun! Be creative! We look forward to potentially meeting with you to discuss what you have created. Thank you for your time! <3
